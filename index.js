@@ -1,6 +1,6 @@
 const tMin = 24;
 const tMax = 105;
-const tInc = 6;
+const tInc = 4;
 const listEl = document.getElementById('temps');
 
 const cFromF = function (f) {
